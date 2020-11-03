@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Shojumaru&family=Stylish&display=swap');
+#hero{
+	background-image: url("../img/backgroung.png");
+	background-size: cover;
+	background-position: center;
+	padding: 20% 0;
+	text-align: center;
+	color: #fff;
+	font-family:'https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Shojumaru&family=Stylish&display=swap';
+	
+}
+
+
+.bordecito{
+	border: 2px solid #CAC9C9;
+	width: 60px;
+	padding: 3%;
+	
+	
+}
+
+.negro{
+	color:#030303;
+	
+	
+}
+#services{
+	padding: 150px 0;
+	color:#222222;
+	text-align: center;
+	align-content: center;
+	
+}
+#questions{
+	background-color: #F9FBF2;
+	padding: 5%;
+	
+}
+
+footer{
+	font-size: 2px;
+	color: #00000;
+	text-align: center;
+	background-color: #FFAC2C;
+	padding: 10%;
+}
+.centrar{
+	text-align: center;
+	
+}
+
+.fotos{
+  width: 100px; height: 100px;
+}
+
+.centrar{
+	text-align: center;
+	
+}
+
+.centro{
+display:block;
+margin:auto;
+}
